@@ -1,3 +1,5 @@
+Bapi Chatterjee's work was partially supported by SERB SRG grant SRG/2022/002269.
+
 The project contains three subdirectories - _Uruv_, _vcas_bst_, and _OpenBwTree_. These directories
 contain code that benchmarks the trees Uruv, VCAS-BST and OpenBw-Tree
 respectively. Your source code would have extracted into a folder 
